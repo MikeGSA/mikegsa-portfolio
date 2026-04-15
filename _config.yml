@@ -1,0 +1,19 @@
+# Site settings
+
+# Jekyll theme
+theme: minima
+
+# Build settings
+
+plugins:
+  - jekyll-seo-tag
+
+# Site configuration
+url: "https://mikegsa.github.io/"
+baseurl: ""
+title: "Mike GSA's Portfolio"
+description: "Welcome to my portfolio website"
+author:
+  name: "Mike GSA"
+  email: "mike@example.com"
+repository: "MikeGSA/mikegsa-portfolio"
